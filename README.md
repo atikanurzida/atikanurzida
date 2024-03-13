@@ -1,12 +1,8 @@
-# Hi there, I'm Atika Nurzida(www.linkedin.com/in/atika-nurzida-31a22022b/) 👋
+# [Hi there, I'm Atika Nurzida](www.linkedin.com/in/atika-nurzida-31a22022b/) 👋
 ## About me:
 I'm a Bachelor of Statistics with an interest in data and research, also diligent and enjoy learning about new things. Experienced in inputting and analyzing data using various statistical methods. Proficient in using statistical tools such as Ms. Excel, R, SQL, Google Data Studio, etc. Have strong analytical and interpersonal skills proven through projects and competitions.
 
 For further information and potential opportunities, please feel free to contact me here or send email to atika.nurzida@gmail.com
-
-<p align="center">
-   <img src="./img/atika_el_4813.jpg" width=25% height=25%>
-</p>
 
 ## Education:
 
