@@ -11,10 +11,7 @@ For further information and potential opportunities, please feel free to contact
    - Asistant Lecturer Mathematical Statistics
 #### 2. [RevoU](https://www.revou.co/) | RevoU X Kampus Merdeka | Semarang `Aug' 2022-Dec' 2022`
      IPK: 86 (out of 100)
-   - [Data Analytcs Capstone Project](https://docs.google.com/presentation/d/1wwxotfo-59YzbSmvhTnBuE-4XzZnHO_gmmR03exBLDw/edit#slide=id.g18c9ca7760e_2_75)
-   - [Product Management Capstone Project](https://www.canva.com/design/DAFUJrkiMRs/2r-61pVkFNCRty-OeQAgWA/edit)
-   - [Digital Marketing Capstone Project](https://docs.google.com/presentation/d/1GOnOhAjldsltgi8hI_UWC-J9CHc9lsAi/edit#slide=id.p1)
-   - [Technology Sales Capstone Project](https://docs.google.com/presentation/d/1OVMAZi5wX6fwhZVEvWDVRt7iUZ2FVOsc2gDFn2coiQ4/edit#slide=id.g163f8bf8c39_2_445)
+   - Learn about the business world starting from issues, trends, to solutions in the fields of digital marketing, data analytics, technology sales, and product management
 #### 3. [SMAN 12 Semarang](https://www.sma12smg.sch.id/) | MIPA | Semarang `2016-2019`
      IPK: 88 (out of 100)
    - Ranked 1st out of 5 MIPA classes in 2018
@@ -57,6 +54,13 @@ For further information and potential opportunities, please feel free to contact
  1. **Competition (2021)**: 3rd place in National Essay Competition (LPDP IPB)
  2. **Competition (2021)**: Finalist of Data Analysis in "Statistics in Action" (Universitas Islam Indonesia)
  3. **Competition (2020)**: Silver Award in Indonesia Inventor Days (World Invention Technology Expo)
+
+## Portofolios:
+- [Data Engineering at dibimbing.id](https://www.canva.com/design/DAGFigFZXAI/A9EyZ951WMeJwsVRg6488Q/edit?utm_content=DAGFigFZXAI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Data Analytics Capstone Project](https://docs.google.com/presentation/d/1wwxotfo-59YzbSmvhTnBuE-4XzZnHO_gmmR03exBLDw/edit#slide=id.g18c9ca7760e_2_75)
+- [Product Management Capstone Project](https://www.canva.com/design/DAFUJrkiMRs/2r-61pVkFNCRty-OeQAgWA/edit)
+- [Digital Marketing Capstone Project](https://docs.google.com/presentation/d/1GOnOhAjldsltgi8hI_UWC-J9CHc9lsAi/edit#slide=id.p1)
+- [Technology Sales Capstone Project](https://docs.google.com/presentation/d/1OVMAZi5wX6fwhZVEvWDVRt7iUZ2FVOsc2gDFn2coiQ4/edit#slide=id.g163f8bf8c39_2_445)
 
 ### Languages and Tools:
 
