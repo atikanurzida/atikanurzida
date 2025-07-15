@@ -56,7 +56,7 @@ For further information and potential opportunities, please feel free to contact
  3. **Competition (2020)**: Silver Award in Indonesia Inventor Days (World Invention Technology Expo)
 
 ## Portofolios:
-- [Supermarket Sales Dashboard](https://public.tableau.com/views/SupermasrketSalesDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Supermarket Sales Dashboard](https://public.tableau.com/authoring/SupermasrketSalesDashboard/Dashboard1#1)
 - [AI Machine Learning at dibimbing.id](https://github.com/atikanurzida/Linear-Regression_Decision-Tree)
 - [Data Engineering at dibimbing.id](https://www.canva.com/design/DAGFigFZXAI/A9EyZ951WMeJwsVRg6488Q/edit?utm_content=DAGFigFZXAI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Data Analytics Capstone Project](https://docs.google.com/presentation/d/1wwxotfo-59YzbSmvhTnBuE-4XzZnHO_gmmR03exBLDw/edit#slide=id.g18c9ca7760e_2_75)
